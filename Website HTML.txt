@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Bailey Herdman Assessment 1 </title>
+<style>
+body {
+	 font-family: Arial, Helvetica, sans-serif;
+     margin:20px;
+}
+div {
+  background-color: white;
+  color: black;
+}
+div.header {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+  padding: 50x;
+}
+div.first {
+	opacity: 0.8;
+	padding: 50x;
+	border: 5px solid #55E6F9;
+   	text-align:center;
+    color: #55E6F9;
+    background-color: black;
+    opacity: 0.6;
+    width: 80%;
+    margin: auto;
+}
+h2 {
+	border: 3px solid #C0C0C0;
+    text-align: center;
+    padding: 10px;
+    background-color: grey;
+    opacity: 0.9;
+    width: 35%;
+    text-decoration:underline;
+    color:blue;
+    margin:auto;
+}
+h3 {
+		border: 3px solid #C0C0C0;
+    text-align: center;
+    padding: 10px;
+    background-color: grey;
+    opacity: 0.9;
+    width: 35%;
+    text-decoration:underline;
+    color:blue;
+    margin:auto;
+}
+body {
+	opacity: 0.6;
+    font-size: 135%;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+a:hover {
+	color: red;
+}
+</style>
+</head>
+<body>
+<div class="header"> <h1> Myself and My Future - Bailey Herdman </h1> </div>
+<h2> About Me </h2>
+<p>Hi, I’m Bailey Herdman student 3921229, an English Australian student based in Rockhampton. I complete year 12 and at present I am completing an apprenticeship at a coal mine. Whilst I lived in Rockhampton I played squash frequently, getting into the news twice for making the state trials.</p>
+<h2> My interest in IT and how it started:</h2>
+<div class="third"> <p>
+Growing up I lived on a property, with no access to internet and very little technology. What first sparked my attention was when my parents gave me old cd players, phones, other broken devices to pull apart. The internal wiring interested me, and what to figure out how they worked. Then we got our first computer and the ability to use the internet for communication, entertainment, information I found incredible. I always had a keen interest in the IT space, but unfortunately my school offered very little classes for the subject. 
+Throughout my teenage years I began to use the internet more, for all the same reasons, communication, entertainment etc. I always found it fun to use and easy to understand. After school I got a position as an apprentice electrician at a mine site, where I can work some IT systems, mostly PLC and I/O cards. This re-ignited my interest in the IT space. 
+Once my apprenticeship is completed, I hope to move completely into the IT field. My preferred area would have to be in databases and software development, maybe also work with servers and hardware’s due to my experience in the electrical field. 
+</p></div>
+<h2> My IT experience:</h2>
+<p>My only experience in the field of it would have to be the limited classes I was able to access during high school, and my experiences at <a href="https://www.bhp.com/what-we-do/global-locations/australia/queensland/saraji">Saraji Mine</a>. At work I gained some experience, mostly with hardware with the installation of I/O cards and the running and cables and switches. I often try to get some information on the PLC and try to learn some basic ladder and function block on logixs 5000. <img
+src=" data:image/jpeg;base64,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" 
+alt="Saraji Mine"
+style="float:right;width:300px;height:470px;"></p>
+
+<h2> Why RMIT?</h2> 
+<p> When I first started my course, I was originally based through CQU but was unhappy with the course. I wanted to change across courses but was recommended by friends to find a new university.  I contacted <a href="https://www.open.edu.au/">Open Universities</a> and asked if they could help, to which they quickly recommended me to this course. I enrolled and found the website to be much more user friendly and modern than CQU uni.  </p>
+<h2> My expectations:</h2>
+<p> I expect to learn the basic of the IT industry, as well as some experience in the keys areas. The information that is taught will be realistic using relevant concepts in the industry. I am still unsure of which area I wish to pursue but am open to finding new areas.  My focus is to gain a good understand of the IT trade so I can acquire a job and position that I would enjoy and find fulfilling.  </p>
+<h2> IT positions and expereince: </h2>
+<p> A position that interests me is a <a href=” https://online.maryville.edu/online-bachelors-degrees/management-information-systems/careers/become-a-systems-analyst/Systems analyst”>System analyst</a>. This position includes the distinguishing of problems and finding a solution, helping users understand new systems. This position seems engaging an has enough creativity to stay engaging. 
+Currently, I have a Cert II in engineering pathways and currently completing a electrical apprenticeship at a coal mine. I am working towards a bachelor’s of IT to further qualify myself as well as more experiences in other areas. A beginner area that I would join to gain experience is the Rockhampton base hospital warehouse as I have done work experience there and are currently expanding, with new position in the next few years. 
+</p>
+<h2> Personality tests: </h2>
+<p> After completing the online personality test from 16 personalities, I received Protagonist as mine. It states that “Protagonists feel called to serve a greater purpose in life. Thoughtful and idealistic, these personality types strive to have a positive impact on other people and the world around them. They rarely shy away from an opportunity to do the right thing, even when doing so is far from easy.” </p> 
+<h2> Project Overview:</h2><p> Still to be decided </p>
+<h3>Motivation:</h3>
+<h3>Description:</h3>
+<h3>Tools and Technologies:</h3>
+<h3>Skills required:</h3>
+<h3>Outcome:</h3>
+
+</body>
+</html>
