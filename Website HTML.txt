@@ -92,12 +92,16 @@ Currently, I have a Cert II in engineering pathways and currently completing a e
 </p>
 <h2> Personality tests: </h2>
 <p> After completing the online personality test from 16 personalities, I received Protagonist as mine. It states that “Protagonists feel called to serve a greater purpose in life. Thoughtful and idealistic, these personality types strive to have a positive impact on other people and the world around them. They rarely shy away from an opportunity to do the right thing, even when doing so is far from easy.” </p> 
-<h2> Project Overview:</h2><p> Still to be decided </p>
-<h3>Motivation:</h3>
-<h3>Description:</h3>
-<h3>Tools and Technologies:</h3>
-<h3>Skills required:</h3>
-<h3>Outcome:</h3>
+<h2> Project Overview:</h2><p> A project to make a website to sell clothes. The difference with these clothes is too be based on comfort, but still be acceptable when wearing out. Example, quick dry pants that are light and easy to wear, but not covered in surfer pictures.  
+A website that has different pages for different types of clothing but based on weather. Such as Summer and winter clothes that are sorted into warm and cool. Also giving the option for clothing materials. 
+</p>
+<h3>Motivation:</h3> <p> Living in regional Queensland, the weather is harsh and can vary greatly. Most only have two choices, stylish or comfortable. With options of clothing material and descriptions, this would give the buyer more control and freedom. Many times, online shops hide their materials to make more money. I theorise that openness, possibly including a material test kit and descriptions. If customers understand more about what they are buying and can get a sample, they would be more likely to buy a larger stock when they return. </p>
+<h3>Description:</h3> <p> A website that sells clothes via fitness for seasons and materials. With clothes that can be suited and customised via the customer. A simple starting webpage with options for different clothing types e.g., shorts, shirts, jackets etc.  Those would then be sorted between summer and winter which would have the different material types. 
+A clothing brand that allows for users to change their clothing materials.  These clothes would also be designed to fit into more modern styles. This clothing brand would be all about comfort, without sacrificing style. 
+</p>
+<h3>Tools and Technologies:</h3> <p> The website could be made using basic html and CSS, although using a website maker such as Dreamweaver would be faster. For storage, depending on size, a hard drive to a server may be needed. </p>
+<h3>Skills required:</h3> <p> Skill sets needed would be software development, website development, and a salesman. Making of the clothing could be done by themselves or via an already existing factory or business. Finding skill labour shouldn’t be an issue as only skills needed are website designer and database technician.  </p> 
+<h3>Outcome:</h3> <p> If the project is successful, then a working website that allows users to order clothes with differing sizes as well as material. When a customer makes an order, a list is set to storage fulfill the order. Another copy is kept which is tracked, and when enough of one type is order a new batch is made.  The storage should also have a storage base which can keep track of available stocks. </p>
 
 </body>
 </html>
